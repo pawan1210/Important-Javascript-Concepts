@@ -15,3 +15,5 @@
 
   Result: "Good bye" 
   
+  4. We can bind 2 onClick events to a button in javascript and these events are called on the basis of their registration.
+  
