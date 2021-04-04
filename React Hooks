@@ -1,0 +1,2 @@
+1. Don't call hooks from regular js functions instead call only from react function components.
+2. Don’t call Hooks inside loops, conditions, or nested functions
