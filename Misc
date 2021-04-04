@@ -1,2 +1,17 @@
 1. Rest and Spread Operator.
 2. Destructuring - The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
+3. Arguments with curly Braces 
+   var x = function({ foo }) {
+     console.log(foo)
+  }
+
+  var y = {
+    bar: "hello",
+    foo: "Good bye"
+  }
+
+  x(y)
+
+
+  Result: "Good bye" 
+  
