@@ -17,3 +17,5 @@
   
   4. We can bind 2 onClick events to a button in javascript and these events are called on the basis of their registration.
   
+  5. export default - can import the element with any name. import <any_name> from "<path>"
+     export - need to import the element with the exact same name defined in the element file.
