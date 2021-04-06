@@ -19,3 +19,4 @@
   
   5. export default - can import the element with any name. import <any_name> from "<path>"
      export - need to import the element with the exact same name defined in the element file.
+  6. JSX - javascript xml. Help to write html in react.
