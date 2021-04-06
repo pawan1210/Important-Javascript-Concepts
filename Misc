@@ -20,3 +20,5 @@
   5. export default - can import the element with any name. import <any_name> from "<path>"
      export - need to import the element with the exact same name defined in the element file.
   6. JSX - javascript xml. Help to write html in react.
+  7. React may merge multiple setState calls to a single one to increase the performance. So the downside is that the state is not updated between different setState calls so instead 
+     of directly using object use a function with argument (prevState)=>{ <some_code> }
